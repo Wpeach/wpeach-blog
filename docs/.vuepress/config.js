@@ -8,16 +8,16 @@ module.exports = {
             { text: '关于', link: '/about/' },
             { text: 'Github', link: 'https://github.com/Wpeach' },
         ],
-        sidebar: {
-            '/blog/': [
-                        "",
-                        "test", 
-                         ],
-            "/translation/":[
-                    "",
-                    "ios1",
-                    ],
-            },
+        // sidebar: {
+        //     '/blog/': [
+        //                 "",
+        //                 "test", 
+        //                  ],
+        //     "/translation/":[
+        //             "",
+        //             "ios1",
+        //             ],
+        //     },
         sidebarDepth: 2,
         lastUpdated: 'Last Updated', 
     },

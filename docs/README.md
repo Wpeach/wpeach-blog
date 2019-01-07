@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /code.png
-actionText: 快速上手 →
+actionText: 开始阅读 →
 actionLink: /zh/guide/
 features:
 - title: 积累
