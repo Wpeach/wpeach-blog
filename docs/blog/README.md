@@ -1,11 +1,5 @@
-::: tip
-This is a tip
-:::
+---
+title: blog
+---
 
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
+持续更新的博客

@@ -2,7 +2,8 @@
 home: true
 heroImage: /code.png
 actionText: 开始阅读 →
-actionLink: /zh/guide/
+actionLink: /blog/
+sidebar: auto
 features:
 - title: 积累
   details: 平时学习中的一些积累
