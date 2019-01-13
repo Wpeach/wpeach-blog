@@ -2,7 +2,7 @@
 home: true
 heroImage: /code.png
 actionText: 开始阅读 →
-actionLink: /blog/
+actionLink: /blog/【译】十五分钟，学习 Webpack
 sidebar: auto
 features:
 - title: 积累
